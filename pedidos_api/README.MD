@@ -1,14 +1,3 @@
-Claro! Aqui está o conteúdo de um `README.md` com explicações simples e diretas para te ajudar (ou qualquer outra pessoa) a entender como o projeto funciona e como rodar ele:
-
----
-
-## 📦 PEDIDOS\_API — Consulta de Pedidos via FastAPI + SQLite
-
-Este projeto carrega um arquivo `.csv` com pedidos públicos e cria uma **API** para consultar os dados pelo terminal, via **FastAPI**.
-Ele usa **Python**, **SQLModel**, **SQLite**, e uma aplicação simples de terminal para buscar um pedido pelo seu ID.
-
----
-
 ### Sobre a atividade
 
 * Lê um arquivo CSV com os dados dos pedidos.
